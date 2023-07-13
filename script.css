@@ -1,0 +1,22 @@
+body{
+    background: rgb(37, 39, 40);
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+img{
+    width:80px;
+    height:80px;
+}
+.container{
+    padding-top: 4px;
+    margin-top: 5%;
+    width:50rem;
+    height:30rem;
+    margin-left: 25%;
+    background: rgb(255, 255, 255);
+    border-color: black;
+    border-radius: 0.3rem;
+}
+h2{ 
+    padding-top: 40px;
+}
